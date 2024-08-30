@@ -1,6 +1,7 @@
 {
-  "name": "section1",
+  "name": "section2",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^22.5.1"
-  },
-  "description": ""
+  }
 }
