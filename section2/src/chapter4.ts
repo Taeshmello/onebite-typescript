@@ -79,7 +79,7 @@ type CountryNumberCodes = {
     //시그니쳐의 value 타입과 직접 추가한 프로퍼티의 value타입이 호환되거나 일치해야함.
     korea: string; //오류
 };
-//string 타입은 number타입과 일치하지 않을 뿐더러 호환되지 않음
+//string 타입은 number타입과 일치하지 않을 뿐더러 호환되지 않음.
 
 
 
