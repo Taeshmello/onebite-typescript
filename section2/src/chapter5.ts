@@ -79,7 +79,7 @@ enum Language {
     english = "en",
 }
 
-const user1 = {
+const user = {
     name: "김포도",
     role: Role2.ADMIN, //0
     language: Language.korean,
