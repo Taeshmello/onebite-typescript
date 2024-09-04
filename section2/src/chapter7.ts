@@ -42,3 +42,4 @@ c = null;
 c = undefined;
 c = true;
 c = anyVar;
+c = true
